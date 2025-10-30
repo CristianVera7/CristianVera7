@@ -28,7 +28,7 @@
 
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
-| Quepo | Proyecto TFG completo. Plataforma funcional full-stack | [GitHub](https://github.com/CristianVera7/quepo) |
+| Quepo | Proyecto TFG completo. Plataforma funcional full-stack | [GitHub](https://github.com/CristianVera7/QuepoWeb) |
 | Calculadora Vue | Ejercicio práctico de componentes y props/emits | [GitHub](https://github.com/CristianVera7/vue-calculadora) |
 | Gestor de pedidos/inventario | Spring Boot + Vue (en desarrollo) | [GitHub](https://github.com/CristianVera7/gestor-pedidos-vue-spring) |
 | Open-source | Próximamente contribuciones en Habitica, FreeCodeCamp y Taiga | - |
