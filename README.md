@@ -29,9 +29,9 @@
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
 | Quepo | Proyecto TFG completo. Plataforma funcional full-stack | [GitHub](https://github.com/CristianVera7/QuepoWeb) |
-| Calculadora Vue | Ejercicio práctico de componentes y props/emits | [GitHub](https://github.com/CristianVera7/vue-calculadora) |
-| Gestor de pedidos/inventario | Spring Boot + Vue (en desarrollo) | [GitHub](https://github.com/CristianVera7/gestor-pedidos-vue-spring) |
-| Open-source | Próximamente contribuciones en Habitica, FreeCodeCamp y Taiga | - |
+| Calculadora Vue | Ejercicio práctico de componentes y props/emits | [GitHub](https://github.com/CristianVera7/vue-calculator) |
+| RecoveryUp | Proyecto en React para ejercicios de rehabilitación de mujeres con cáncer de mama | [GitHub](https://github.com/CristianVera7/RecoveryUp) |
+| Proyecto Grupo 4 Fantásticos | Juego de cartas de memoria | [GitHub](https://github.com/CristianVera7/Proyecto-Grupo-4fantastic) |
 
 ---
 
