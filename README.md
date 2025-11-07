@@ -77,6 +77,6 @@
 
 - ✉️ Email: [criisv95@gmail.com](mailto:criisv95@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/cristian-vera-desarrollador](https://www.linkedin.com/in/cristian-vera-desarrollador/)  
-- 🐙 GitHub: [github.com/CristianVera7](https://github.com/CristianVera7?tab=repositories)  
+- 🐙 Repositorios en GitHub: [github.com/CristianVera7](https://github.com/CristianVera7?tab=repositories)  
 
 ---
