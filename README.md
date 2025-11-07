@@ -34,21 +34,27 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Lit](https://img.shields.io/badge/Lit-FDDF00?style=for-the-badge&logo=lit&logoColor=black)
 
+######
+
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-######🔹 **APIs RESTful** con buenas prácticas, validación y control de errores.  
+🔹 **APIs RESTful** con buenas prácticas, validación y control de errores.  
 
 🔹 **JPA/Hibernate** para persistencia de datos eficiente y tipada.  
+
+######
 
 ### **Testing y Calidad**
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-52A65D?style=for-the-badge&logo=java&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+######
 
 ### **DevOps / Colaboración**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
