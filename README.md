@@ -39,7 +39,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 🔹 **APIs RESTful** con buenas prácticas, validación y control de errores.  
+
 🔹 **JPA/Hibernate** para persistencia de datos eficiente y tipada.  
 
 ### **Testing y Calidad**
@@ -53,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 🔹 **Integración continua (CI/CD)** con Jenkins y GitHub Actions 
 
 ---
