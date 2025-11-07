@@ -1,6 +1,6 @@
 # 👋 Hola, soy Cristian Vera
 
-**Desarrollador junior full-stack** | Apasionado por aprender haciendo y contribuir en proyectos reales.  
+**Desarrollador junior full-stack** | Apasionado por aprender y contribuir en proyectos reales.  
 
 ![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-✔️-green) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
