@@ -40,7 +40,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-🔹 **APIs RESTful** con buenas prácticas, validación y control de errores.  
+######🔹 **APIs RESTful** con buenas prácticas, validación y control de errores.  
 
 🔹 **JPA/Hibernate** para persistencia de datos eficiente y tipada.  
 
