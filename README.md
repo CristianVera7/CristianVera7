@@ -16,9 +16,11 @@
 
 ## 🚀 Sobre mí
 
-- Formación en **DAM** y bootcamp en **JavaScript/TypeScript**  
-- Motivado por el aprendizaje continuo, colaboración y código limpio  
-- Experiencia desarrollando proyectos **full-stack reales** y contribuyendo a open-source  
+🎓 Formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y bootcamp en JavaScript y React
+
+💡 Apasionado por el aprendizaje continuo, la colaboración y el código limpio
+
+🧩 Experiencia en proyectos full-stack reales con Vue, TypeScript, Express y Node.js, además de contribuciones a open-source
 
 ---
 
