@@ -1,9 +1,15 @@
 # 👋 Hola, soy Cristian Vera
 
-**Desarrollador junior full-stack** | Apasionado por aprender y contribuir en proyectos reales  ![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-✔️-green)
-
+**Desarrollador junior full-stack** | Apasionado por aprender y contribuir en proyectos reales 
+![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-✔️-green)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+![Testing](https://img.shields.io/badge/Testing-Jest%20%7C%20Jasmine-15c213?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-009688?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
